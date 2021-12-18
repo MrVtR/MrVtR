@@ -1,13 +1,37 @@
 ![](https://komarev.com/ghpvc/?username=MrVtR&color=006bed)
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+# :rocket: Sobre mim
+<p align="left"> 
+  Olá, me chamo Vítor Ribeiro, tenho 20 anos, estudo Ciência da Computação na UFSCar - Sorocaba e atualmente trabalho como estagiário de Batch Ops na empresa Kyndryl, atuando com automatizações de atividades dos empregados, usando Node.JS e Python(Jupyter Notebook). Tenho experiência com a área de <b>Desenvolvimento Front-End e Back-End</b>, além disso, estudo <b>Data Science</b> para que em 2022 eu possa trabalhar dentro desta área maravilhosa
+</p>
+<p>
+  Atualmente sou um dos líderes de uma equipe voluntária de tradução para jogos eletrônicos, a <a href="https://www.jumpmanclubbrasil.com.br">JumpManClub Brasil</a>, nós temos o intuito de disseminar a cultura brasileira fazendo legendas para jogos que não possuem nosso idioma para o usuário utilizar de forma oficial, um trabalho que requer bastante conhecimento na área de <b>Engenharia Reversa</b>, um dos meus hobbies favoritos
+  </p>
+  <p>
+
+  - :closed_book: O que estou lendo no momento?
+    - Saga Fundação, por Isaac Asimov
+  - :video_game: Qual meu jogo eletrônico favorito?
+    - Difícil decidir, mas escolho Bravely Default para o Nintendo 3DS e Horizon: Zero Dawn para o PS4
+  - :scientist: Quais áreas de estudo gosto para estudar como hobbie?
+    - Física, Astronomia e Engenharia Reversa de Dados
+  
+## :trophy: Conquistas 
+- Integrante da única equipe brasileira finalista do NASA Space Apps 2021 - [Link para o Projeto](https://2021.spaceappschallenge.org/challenges/statements/warning-things-are-heating-up/teams/make-it-cool/project)
+- Integrante de equipe finalista regional do NASA Space Apps 2020 em Indaiatuba - [Link para o Projeto](https://2020.spaceappschallenge.org/challenges/connect/can-you-hear-me-now/teams/minnoctlevis/project)
+- Posição nº 161 da Maratona Behind the Code 2020 - Mais de 70 mil inscritos
+
 <div align="center">
 <i>The curtain rises on a young and vibrant universe. An audience worthy of my talent.</i>
 <b>- Dark Cosmic Jhin</b>
 <img src="https://github.com/MrVtR/MrVtR/blob/main/images/LeadingGrizzledAoudad.gif" height="300">
 </div>
 
-# **Skills para Aplicações e Dados**
+# :open_book: **Skills para Aplicações e Dados**
 
-## **Data Science - Estudando agora**
+## :robot: **Data Science - Estudando agora**
   ![Python](https://img.shields.io/badge/Python-3776AB?style=style=flat&logo=python&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)
   ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)
@@ -50,7 +74,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 
-**Ferramentas de Desenvolvimento**
+**:gear: Ferramentas de Desenvolvimento**
 
   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
