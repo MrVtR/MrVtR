@@ -1,5 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=MrVtR&color=006bed)
 
+<i>The curtain rises on a young and vibrant universe. An audience worthy of my talent.</i>
+<b>- Dark Cosmic Jhin</b>
+![Alt Text](https://gfycat.com/leadinggrizzledaoudad-dark-cosmic-jhin-league-of-legends.gif)
+
+
 **Aplicações e Dados**
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=style=flat&logo=python&logoColor=white)
