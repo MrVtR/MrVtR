@@ -4,7 +4,9 @@
 
 # :rocket: Sobre mim
 <p align="left"> 
-  Olá, me chamo Vítor Ribeiro, tenho 20 anos, estudo Ciência da Computação na UFSCar - Sorocaba e atualmente trabalho como estagiário de Batch Ops na empresa Kyndryl, atuando com automatizações de atividades dos empregados, usando Node.JS e Python(Jupyter Notebook). Tenho experiência com a área de <b>Desenvolvimento Front-End e Back-End</b>, além disso, estudo <b>Data Science</b> para que em 2022 eu possa trabalhar dentro desta área maravilhosa
+  Olá, me chamo Vítor Ribeiro, tenho 20 anos, estudo Ciência da Computação na UFSCar - Sorocaba e atualmente trabalho como estagiário de Batch Ops na empresa Kyndryl, atuando com automatizações de atividades dos empregados, usando Node.JS e Python(Jupyter Notebook). </p>
+ <p>
+ Tenho experiência com a área de <b>Desenvolvimento Front-End e Back-End</b>, além disso, estudo <b>Data Science</b> para que em 2022 eu possa trabalhar dentro desta área maravilhosa
 </p>
 <p>
   Atualmente sou um dos líderes de uma equipe voluntária de tradução para jogos eletrônicos, a <a href="https://www.jumpmanclubbrasil.com.br">JumpManClub Brasil</a>, nós temos o intuito de disseminar a cultura brasileira fazendo legendas para jogos que não possuem nosso idioma</br>para o usuário utilizar de forma oficial, um trabalho que requer bastante conhecimento</br>na área de <b>Engenharia Reversa</b>, um dos meus hobbies favoritos
@@ -14,8 +16,8 @@
   - :closed_book: O que estou lendo no momento?
     - Saga Fundação, por Isaac Asimov
   - :video_game: Qual meu jogo eletrônico favorito?
-    - Difícil decidir, mas escolho Bravely Default para o Nintendo 3DS e Horizon: Zero Dawn para o PS4
-  - :scientist: Quais áreas de estudo gosto para estudar como hobbie?
+    - Difícil decidir, mas escolho [Bravely Default](https://www.youtube.com/watch?v=voh6NEpwEVY) para o Nintendo 3DS e [Horizon: Zero Dawn](https://www.youtube.com/watch?v=u4-FCsiF5x4) para o PS4
+  - :scientist: Quais áreas de conhecimento gosto para estudar como hobbie?
     - Física, Astronomia e Engenharia Reversa de Dados
   
 ## :trophy: Conquistas 
