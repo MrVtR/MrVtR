@@ -54,7 +54,7 @@
 
 [![Linkedin: Vítor Ribeiro](https://img.shields.io/badge/-VitorRibeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vítor-ribeiro/)](https://www.linkedin.com/in/vítor-ribeiro/)
 [![Gmail Badge](https://img.shields.io/badge/-vitor.ribeiro0803@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitor.ribeiro0803@gmail.com)](mailto:vitor.ribeiro0803@gmail.com)
-[![GitHub MrVtR - Vítor Ribeiro](https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/MrVtR)
+[![GitHub MrVtR - Vítor Ribeiro](https://img.shields.io/github/followers/MrVtR?label=follow&style=social)](https://github.com/MrVtR)
 
 
 
