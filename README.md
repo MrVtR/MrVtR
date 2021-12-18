@@ -7,7 +7,7 @@
   Olá, me chamo Vítor Ribeiro, tenho 20 anos, estudo Ciência da Computação na UFSCar - Sorocaba e atualmente trabalho como estagiário de Batch Ops na empresa Kyndryl, atuando com automatizações de atividades dos empregados, usando Node.JS e Python(Jupyter Notebook). Tenho experiência com a área de <b>Desenvolvimento Front-End e Back-End</b>, além disso, estudo <b>Data Science</b> para que em 2022 eu possa trabalhar dentro desta área maravilhosa
 </p>
 <p>
-  Atualmente sou um dos líderes de uma equipe voluntária de tradução para jogos eletrônicos, a <a href="https://www.jumpmanclubbrasil.com.br">JumpManClub Brasil</a>, nós temos o intuito de disseminar a cultura brasileira fazendo legendas para jogos que não possuem nosso idioma para o usuário utilizar de forma oficial, um trabalho que requer bastante conhecimento na área de <b>Engenharia Reversa</b>, um dos meus hobbies favoritos
+  Atualmente sou um dos líderes de uma equipe voluntária de tradução para jogos eletrônicos, a <a href="https://www.jumpmanclubbrasil.com.br">JumpManClub Brasil</a>, nós temos o intuito de disseminar a cultura brasileira fazendo legendas para jogos que não possuem nosso idioma</br>para o usuário utilizar de forma oficial, um trabalho que requer bastante conhecimento</br>na área de <b>Engenharia Reversa</b>, um dos meus hobbies favoritos
   </p>
   <p>
 
@@ -19,9 +19,9 @@
     - Física, Astronomia e Engenharia Reversa de Dados
   
 ## :trophy: Conquistas 
-- Integrante da única equipe brasileira finalista do NASA Space Apps 2021 - [Link para o Projeto](https://2021.spaceappschallenge.org/challenges/statements/warning-things-are-heating-up/teams/make-it-cool/project)
-- Integrante de equipe finalista regional do NASA Space Apps 2020 em Indaiatuba - [Link para o Projeto](https://2020.spaceappschallenge.org/challenges/connect/can-you-hear-me-now/teams/minnoctlevis/project)
-- Posição nº 161 da Maratona Behind the Code 2020 - Mais de 70 mil inscritos
+- Integrante da única equipe brasileira finalista do NASA Space Apps 2021 - Mais de 160 países inscritos e cerca de 2814 projetos feitos - [Link para nosso Projeto](https://2021.spaceappschallenge.org/challenges/statements/warning-things-are-heating-up/teams/make-it-cool/project)
+- Integrante de equipe finalista regional do NASA Space Apps 2020 em Indaiatuba - [Link para nosso Projeto](https://2020.spaceappschallenge.org/challenges/connect/can-you-hear-me-now/teams/minnoctlevis/project)
+- Posição nº 161 da Maratona Behind the Code 2020 - Mais de 70 mil inscritos na América Latina
 
 <div align="center">
 <i>The curtain rises on a young and vibrant universe. An audience worthy of my talent.</i>
