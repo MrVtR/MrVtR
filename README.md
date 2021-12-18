@@ -1,5 +1,5 @@
-<div align="center">
 ![](https://komarev.com/ghpvc/?username=MrVtR&color=006bed)
+<div align="center">
 <i>The curtain rises on a young and vibrant universe. An audience worthy of my talent.</i>
 <b>- Dark Cosmic Jhin</b>
 <img src="https://github.com/MrVtR/MrVtR/blob/main/images/LeadingGrizzledAoudad.gif" height="300">
