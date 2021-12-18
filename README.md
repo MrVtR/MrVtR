@@ -29,13 +29,13 @@
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
   
-## **Outros**
+### **Outros**
   ![C#](https://img.shields.io/badge/C%23-239120?style=style=flat&logo=c-sharp&logoColor=white)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   
-**Utilidades**
+## **Utilidades**
 
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -44,7 +44,7 @@
   ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=flat&logo=eslint&logoColor=white)
   ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat&logo=Overleaf&logoColor=white)
 
-**DevOps**
+## **DevOps**
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -59,23 +59,23 @@
   ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252)
   ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white)
   ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
 <br/>
 
+<p align="center">
 <a href="https://github.com/MrVtR">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MrVtR&count_private=true&show_icons=true&theme=synthwave" />
 </a>
 <a href="https://github.com/MrVtR">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVtR&langs_count=8&layout=compact" />
 </a>
+</p
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h2> :earth_americas: &nbsp;Onde me encontrar: </h2> 
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vítor-ribeiro/)](https://www.linkedin.com/in/vítor-ribeiro/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:vitor.ribeiro0803@gmail.com)
