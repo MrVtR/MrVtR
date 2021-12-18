@@ -2,15 +2,15 @@
 
 **Aplicações e Dados**
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-   ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=style=flat&logo=python&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=style=flat&logo=c-sharp&logoColor=white)
+   ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
    ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
    ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=style=flat&logo=sass&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=style=flat&logo=css3&logoColor=white)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
