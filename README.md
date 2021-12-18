@@ -28,6 +28,7 @@
 <div align="center">
 <i>The curtain rises on a young and vibrant universe. An audience worthy of my talent.</i>
 <b>- Dark Cosmic Jhin</b>
+  </br></br>
 <img src="https://github.com/MrVtR/MrVtR/blob/main/images/LeadingGrizzledAoudad.gif" height="300">
 </div>
 
@@ -43,7 +44,7 @@
   ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
   ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
   
-## **Desenvolvimento Web Front-End e Back-End**
+## :atom_symbol: **Desenvolvimento Web Front-End e Back-End**
   ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=flat&logo=mocha&logoColor=white)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -55,13 +56,13 @@
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
   
-### **Outros**
+### :heavy_plus_sign: **Outros**
   ![C#](https://img.shields.io/badge/C%23-239120?style=style=flat&logo=c-sharp&logoColor=white)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   
-## **Utilidades**
+## :wrench: **Utilidades**
 
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -70,13 +71,13 @@
   ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=flat&logo=eslint&logoColor=white)
   ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat&logo=Overleaf&logoColor=white)
 
-## **DevOps**
+## :infinity: **DevOps**
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 
-**:gear: Ferramentas de Desenvolvimento**
+## **:gear: Ferramentas de Desenvolvimento**
 
   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -101,12 +102,8 @@
 
 <br/>
 
-<h2> :earth_americas: &nbsp;Onde me encontrar: </h2> 
+## :earth_americas: &nbsp;Onde me encontrar: 
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vítor-ribeiro/)](https://www.linkedin.com/in/vítor-ribeiro/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:vitor.ribeiro0803@gmail.com)
 [![GitHub MrVtR - Vítor Ribeiro](https://img.shields.io/github/followers/MrVtR?label=follow&style=social)](https://github.com/MrVtR)
-
-
-
-
