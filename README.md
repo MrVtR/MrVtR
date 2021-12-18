@@ -1,9 +1,9 @@
+<div align="center">
 ![](https://komarev.com/ghpvc/?username=MrVtR&color=006bed)
-
 <i>The curtain rises on a young and vibrant universe. An audience worthy of my talent.</i>
 <b>- Dark Cosmic Jhin</b>
-![Alt Text](https://gfycat.com/leadinggrizzledaoudad-dark-cosmic-jhin-league-of-legends.gif)
-
+<img src="https://github.com/MrVtR/MrVtR/blob/main/images/LeadingGrizzledAoudad.gif" height="300">
+</div>
 
 **Aplicações e Dados**
 
