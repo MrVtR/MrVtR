@@ -16,7 +16,7 @@
   - :closed_book: O que estou lendo no momento?
     - Saga Fundação, por Isaac Asimov
   - :video_game: Qual meu jogo eletrônico favorito?
-    - Difícil decidir, mas escolho [Bravely Default](https://www.youtube.com/watch?v=voh6NEpwEVY) para o Nintendo 3DS e [Horizon: Zero Dawn](https://www.youtube.com/watch?v=u4-FCsiF5x4) para o PS4
+    - Difícil decidir, mas escolho [Bravely Default](https://www.youtube.com/watch?v=voh6NEpwEVY) para Nintendo 3DS e [Horizon: Zero Dawn](https://www.youtube.com/watch?v=u4-FCsiF5x4) para PS4
   - :scientist: Quais áreas de conhecimento gosto para estudar como hobbie?
     - Física, Astronomia e Engenharia Reversa de Dados
   
