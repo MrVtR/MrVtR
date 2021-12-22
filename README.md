@@ -1,5 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=MrVtR&color=006bed)
 
+## :earth_americas: &nbsp;Onde me encontrar: 
+
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vítor-ribeiro/)](https://www.linkedin.com/in/vítor-ribeiro/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:vitor.ribeiro0803@gmail.com)
+[![GitHub MrVtR - Vítor Ribeiro](https://img.shields.io/github/followers/MrVtR?label=follow&style=social)](https://github.com/MrVtR)
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 # :rocket: Sobre mim
@@ -101,9 +107,3 @@
 </p
 
 <br/>
-
-## :earth_americas: &nbsp;Onde me encontrar: 
-
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vítor-ribeiro/)](https://www.linkedin.com/in/vítor-ribeiro/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:vitor.ribeiro0803@gmail.com)
-[![GitHub MrVtR - Vítor Ribeiro](https://img.shields.io/github/followers/MrVtR?label=follow&style=social)](https://github.com/MrVtR)
