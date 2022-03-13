@@ -10,7 +10,7 @@
 
 # :rocket: Sobre mim
 <p align="left"> 
-  Olá, me chamo Vítor Ribeiro, tenho 20 anos, estudo Ciência da Computação na UFSCar - Sorocaba e atualmente trabalho como estagiário de Batch Ops na empresa Kyndryl, atuando com automatizações de atividades dos empregados, usando Node.JS e Python(Jupyter Notebook). </p>
+  Olá, me chamo Vítor Ribeiro, tenho 21 anos, estudo Ciência da Computação na UFSCar - Sorocaba e atualmente trabalho como estagiário de Batch Ops na empresa Kyndryl, atuando com automatizações de atividades dos empregados, usando Node.JS e Python(Jupyter Notebook). </p>
  <p>
  Tenho experiência com a área de <b>Desenvolvimento Front-End e Back-End</b>, além disso, estudo <b>Data Science</b> para que em 2022 eu possa trabalhar dentro desta área maravilhosa
 </p>
