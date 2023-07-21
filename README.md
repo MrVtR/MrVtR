@@ -10,9 +10,9 @@
 
 # :rocket: Sobre mim
 <p align="left"> 
-  Olá, me chamo Vítor Ribeiro, tenho 21 anos, estudo Ciência da Computação na UFSCar - Sorocaba e atualmente trabalho como estagiário de Batch Ops na empresa Kyndryl, atuando com automatizações de atividades dos empregados, usando Node.JS e Python(Jupyter Notebook). </p>
+  Olá, me chamo Vítor Ribeiro, tenho 22 anos e sou graduado em Ciência da Computação pela UFSCar-Sorocaba. Conto com experiência sólida no desenvolvimento Front-end e Back-end para Web, além de ter habilidades avançadas em inglês. Em 2020, iniciei meus estudos na área de Ciência de Dados e participei da prestigiosa maratona Behind the Code promovida pela IBM. Foi a minha primeira participação, e fiquei classificado entre os 200 melhores do Brasil, com mais de 70 mil inscritos.</p>
  <p>
- Tenho experiência com a área de <b>Desenvolvimento Front-End e Back-End</b>, além disso, estudo <b>Data Science</b> para que em 2022 eu possa trabalhar dentro desta área maravilhosa
+Demonstro um forte interesse em ingressar no mercado de desenvolvimento tecnológico, focando especialmente na área de <b>iência de Dados</b> e <b>Desenvolvimento front-end</b>. Meu objetivo é criar e aplicar soluções inovadoras com potencial para ter um impacto global significativo. Tenho afinidade com aplicações de Inteligência Artificial, Machine Learning e Redes Neurais usando plataformas como Google Cloud, Azure e AWS, bem como com as tecnologias Python e Jupyter Notebook, pois são nesses pontos que meus interesses se convergem.
 </p>
 <p>
   Atualmente sou um dos líderes de uma equipe voluntária de tradução para jogos eletrônicos, a <a href="https://www.jumpmanclubbrasil.com.br">JumpManClub Brasil</a>, nós temos o intuito de disseminar a cultura brasileira fazendo legendas para jogos que não possuem nosso idioma</br>para o usuário utilizar de forma oficial, um trabalho que requer bastante conhecimento</br>na área de <b>Engenharia Reversa</b>, um dos meus hobbies favoritos
@@ -20,7 +20,7 @@
   <p>
 
   - :closed_book: O que estou lendo no momento?
-    - Saga Fundação, por Isaac Asimov
+    - A Trilogia do Spraw, por William Gibson, estou no primeiro livro, o Neuromancer
   - :video_game: Qual meu jogo eletrônico favorito?
     - Difícil decidir, mas escolho [Bravely Default](https://www.youtube.com/watch?v=voh6NEpwEVY) para Nintendo 3DS e [Horizon: Zero Dawn](https://www.youtube.com/watch?v=u4-FCsiF5x4) para PS4
   - :scientist: Quais áreas de conhecimento gosto para estudar como hobbie?
@@ -40,7 +40,7 @@
 
 # :open_book: **Skills para Aplicações e Dados**
 
-## :robot: **Data Science - Estudando agora**
+## :robot: **Data Science**
   ![Python](https://img.shields.io/badge/Python-3776AB?style=style=flat&logo=python&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)
   ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)
