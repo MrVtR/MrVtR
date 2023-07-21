@@ -20,7 +20,7 @@ Demonstro um forte interesse em ingressar no mercado de desenvolvimento tecnoló
   <p>
 
   - :closed_book: O que estou lendo no momento?
-    - A Trilogia do Spraw, por William Gibson, estou no primeiro livro, o Neuromancer
+    - [A Trilogia do Spraw](https://estacaonerd.com/a-trilogia-do-spraw-de-william-gibson/), por William Gibson, estou no primeiro livro, o Neuromancer
   - :video_game: Qual meu jogo eletrônico favorito?
     - Difícil decidir, mas escolho [Bravely Default](https://www.youtube.com/watch?v=voh6NEpwEVY) para Nintendo 3DS e [Horizon: Zero Dawn](https://www.youtube.com/watch?v=u4-FCsiF5x4) para PS4
   - :scientist: Quais áreas de conhecimento gosto para estudar como hobbie?
